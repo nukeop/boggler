@@ -15,5 +15,6 @@ Almost guaranteed to get the highest score every time.
 
 ## Hall of fame
 ![s1](http://i.imgur.com/PsKA1zW.png)
-![s2](http://i.imgur.com/vEVGyvC.png)
-![s3](http://i.imgur.com/EGSHiim.png)
+![s2](http://i.imgur.com/1OuxTF0.png)
+![s3](http://i.imgur.com/vEVGyvC.png)
+![s4](http://i.imgur.com/EGSHiim.png)
